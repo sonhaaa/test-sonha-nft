@@ -1,0 +1,22 @@
+{
+    "name": "Sonhaaa logo",
+    "description": "Logo for test NFT",
+    "image": "https://ipfs.io/ipfs/QmZv19sY77vLNRybTtgHAj85BYMX3wVS1HK2jjwsKs8SAz",
+    "attributes": [
+        {
+            "trait_type": "education",
+            "value": 12,
+            "max_value": 12
+        },
+        {
+            "trait_type": "age",
+            "value": 20,
+            "max_value": 100
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 988848000
+        }
+    ]
+}
